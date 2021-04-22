@@ -1,0 +1,4 @@
+The most meaningfull classes analyzed are: 
+•Class 0
+•Class 1
+•Class 4
